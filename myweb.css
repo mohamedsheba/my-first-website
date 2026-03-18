@@ -1,0 +1,154 @@
+body
+{
+    background: #0f172a
+}
+.Signbox
+{
+    border-width: 4px;
+    border-color: aqua;
+    border-style: outset;
+    background: linear-gradient(135deg, #0e65f1 , #4709d8 , #ec4899);
+    margin:20px 35%;
+    padding:10px 10px;
+    border-radius: 15%;
+    box-shadow: 5px 5px 5px black;
+}
+p
+{
+    text-align: center;
+}
+.inp
+{
+    margin: 10px 10px;
+    width: 150px;
+    height: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+.inp:focus
+{
+    outline: none;
+    border: 1px solid #000000;
+    box-shadow: 0px 0px 5px #000000;
+    transition: 0.3s;
+    transform: scale(1.0);
+}
+.lab
+{
+    display: inline-block;
+    width: 30%;
+}
+frame
+{
+    width: 150px;
+}
+.facebook
+{
+    width: 50px;
+    height: 50px;
+    background: #0d2fee;
+    color: #f6f6f8;
+    border-radius: 50%;
+    margin: 25px;
+    transition: all 0.3s ease;
+    display: inline-block;
+}
+.facebook:hover {
+    background: #fafafa;
+    color: #0d2fee;
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+.google
+{
+    width: 45px;
+    height: 45px;
+    background: #ffffff;
+    border-radius: 50%;
+    margin: 25px;
+    padding: 5px;
+    text-align: center;
+    display: inline-flex;
+    transition: all 0.4s ease;
+}
+.gmail
+{
+    
+    margin: 5px;
+    transition: 0.4s;
+}
+.google:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+    background: #000;
+}
+.gmail:hover{
+    transform: scale(1.0);
+    transition: 0.3s;
+}
+a, a:visited
+{
+    text-decoration: none;
+    color: rgb(1, 12, 109);
+}
+hr
+{
+    width: 50%;
+}
+.apple
+{
+    width: 50px;
+    height: 45px;
+    background: #000000;
+    border-radius: 50%;
+    margin: 25px;
+    padding: 4px;
+    text-align: center;
+    display: inline-flex;
+    transition: all 0.3s ease;
+}
+.apple_logo
+{
+    height: 35px;
+    margin: 5px;
+}
+.apple_logo:hover{
+    transform: scale(1.0);
+    transition: 0.3s;
+}
+.apple:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+    filter: invert(1);
+}
+.okbtm
+{
+    margin:15px;
+    font-style: arial;
+    font-size: medium;
+    display: flex;
+    justify-content: center;
+}
+button
+{
+    height: 25%;width: 70px;
+    font-size: large;
+    background: #8c62ee;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+button:hover
+{
+    transform: scale(1.2);
+    transition: 0.3s;
+    background-color: #441596;
+    box-shadow: 0 0 15px #8b5cf6;
+}
+.lgitem
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 30px;
+}
