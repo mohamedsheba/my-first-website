@@ -21,6 +21,14 @@ Designed with simplicity and usability in mind, demonstrating UI design skills.
 ## Screenshots
 ![Login Page Screenshot](images/Login-screenshot.png)
 
+## Demo
+
+### Social Icons Hover
+![Social Icons Hover](images/fb-google-apple-hover.gif)
+
+### Login Button & Inputs Hover
+![Login & Inputs Hover](images/login-input-hover.gif)
+
 ## Notes
 - All files are included in the project:
   - HTML: `index.html`
