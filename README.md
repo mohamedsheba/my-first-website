@@ -10,7 +10,7 @@ Designed with simplicity and usability in mind, demonstrating UI design skills.
 
 ## How to Run
 1. Open the project on your computer.
-2. Open `index.html` in any modern browser (Chrome, Firefox, Edge, etc.).
+2. Open `login page.html` in any modern browser (Chrome, Firefox, Edge, etc.).
 3. Explore the interface and see the design.
 
 ## Features
@@ -31,7 +31,7 @@ Designed with simplicity and usability in mind, demonstrating UI design skills.
 
 ## Notes
 - All files are included in the project:
-  - HTML: `index.html`
-  - CSS: `style.css`
+  - HTML: `login page.html`
+  - CSS: `login page style.css`
   - Images: in the `images` folder
 - Feel free to edit the files for learning or experimentation.
