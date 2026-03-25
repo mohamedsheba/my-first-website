@@ -1,7 +1,7 @@
 # Modern Login Page
 
 ## Project Description
-A modern login page built using HTML and CSS, fully responsive and mobile-friendly.  
+A modern login page built using HTML and CSS and fully responsive.  
 Designed with simplicity and usability in mind, demonstrating UI design skills.
 
 ## Technologies Used
